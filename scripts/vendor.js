@@ -1,0 +1,1 @@
+"use strict";var app=new Vue({el:"#menu",data:{links:["aaaa","bbb","aaaaa","333"]}});
